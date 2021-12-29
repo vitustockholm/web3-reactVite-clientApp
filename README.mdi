@@ -25,3 +25,6 @@ copy paste to ./src/index.css:
 @tailwind utilities;
 
 *Later use deployded abi contract number for front end application!*
+
+### npm run dev 
+### npm run build
