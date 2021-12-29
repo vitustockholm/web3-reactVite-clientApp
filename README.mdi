@@ -23,3 +23,5 @@ copy paste to ./src/index.css:
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+*Later use deployded abi contract number for front end application!*
