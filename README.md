@@ -2,16 +2,16 @@
 
 https://web3-react-vite-client-app.vercel.app/
 
-## Login with Metamask wallet
-### Send Blockchain Transactions online
-#### Random giphy image generated throw API with every single transaction
-##### Tracking transactions history of wallet
-###### Leaves message in smart contract .Sol
+ Login with Metamask wallet
+ Send Blockchain Transactions online
+ Random giphy image generated throw API with every single transaction
+ Tracking transactions history of wallet
+ Leaves message in smart contract .Sol
+ Mobile Responsive design
 
+# INSTRUCTIONS
 
-
-
-create 2folder in main directory 
+ - create 2folder in main directory 
     1 CLIENT
     2 SMART_CONTRACT
 
@@ -21,7 +21,7 @@ cd CLIENT
 
 cd vite-project-name
    npm install
-      nom run dev
+      npm run dev
 
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p     (*creates config files*)
