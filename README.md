@@ -12,7 +12,7 @@
  
  5.Reading smart contract .Sol messages and consoling to client.
  
- 6.obile Responsive design.
+ 6.Mobile Responsive design.
 
 # INSTRUCTIONS
 
