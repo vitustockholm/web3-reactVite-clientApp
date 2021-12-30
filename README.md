@@ -1,4 +1,4 @@
-# Deployed Application on React template Vite Theme
+# Application REACT - VITE - SOLIDITY
 
 https://web3-react-vite-client-app.vercel.app/
 
