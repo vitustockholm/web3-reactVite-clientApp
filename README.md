@@ -2,12 +2,12 @@
 
 ### https://web3-react-vite-client-app.vercel.app/
 
- Login with Metamask wallet
- Send Blockchain Transactions online
- Random giphy image generated throw API with every single transaction
- Tracking transactions history of wallet
- Leaves message in smart contract .Sol
- Mobile Responsive design
+ 1.Login with Metamask wallet.
+ 2.Send Blockchain Transactions online.
+ 3.Random giphy image generated throw API with every single transaction.
+ 4.Tracking transactions history of wallet.
+ 5.Leaves message in smart contract .Sol.
+ 6.obile Responsive design.
 
 # INSTRUCTIONS
 
@@ -21,7 +21,6 @@ cd CLIENT         *(enter client root dir)
 
 cd vite-project-name
  ### npm install
- ###     npm run dev
 
 ### npm install -D tailwindcss postcss autoprefixer
 ### npx tailwindcss init -p     (*creates config files*)
