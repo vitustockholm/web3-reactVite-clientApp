@@ -1,6 +1,6 @@
 # Application REACT - VITE - SOLIDITY
 
-https://web3-react-vite-client-app.vercel.app/
+### https://web3-react-vite-client-app.vercel.app/
 
  Login with Metamask wallet
  Send Blockchain Transactions online
@@ -16,15 +16,15 @@ https://web3-react-vite-client-app.vercel.app/
     2 SMART_CONTRACT
 
 cd CLIENT 
-   npm init vite@latest            
+  ### npm init vite@latest            
              *choose framework and variant REACT
 
 cd vite-project-name
-   npm install
-      npm run dev
+ ### npm install
+ ###     npm run dev
 
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p     (*creates config files*)
+### npm install -D tailwindcss postcss autoprefixer
+### npx tailwindcss init -p     (*creates config files*)
 
 
 
