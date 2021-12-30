@@ -11,12 +11,12 @@
 
 # INSTRUCTIONS
 
- - create 2folder in main directory 
-    1 CLIENT
-    2 SMART_CONTRACT
+ - create TWO folders in main directory 
+    *1 CLIENT     (front app)
+    *2 SMART_CONTRACT  (backend logic)
 
-cd CLIENT 
-  ### npm init vite@latest            
+cd CLIENT         *(enter client root dir)
+  ### npm init vite@latest        *(initilising Vite project)       
              *choose framework and variant REACT
 
 cd vite-project-name
