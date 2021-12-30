@@ -4,13 +4,13 @@
 
  1.Login with Metamask wallet.
  
- 2.Send Blockchain Transactions online.
+ 2.Safety send Blockchain Transactions online.
  
  3.Random giphy image generated throw API with every single transaction.
  
  4.Tracking transactions history of wallet.
  
- 5.Leaves message in smart contract .Sol.
+ 5.Reading smart contract .Sol messages and consoling to client.
  
  6.obile Responsive design.
 
