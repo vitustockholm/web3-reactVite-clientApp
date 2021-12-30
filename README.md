@@ -3,10 +3,15 @@
 ### https://web3-react-vite-client-app.vercel.app/
 
  1.Login with Metamask wallet.
+ 
  2.Send Blockchain Transactions online.
+ 
  3.Random giphy image generated throw API with every single transaction.
+ 
  4.Tracking transactions history of wallet.
+ 
  5.Leaves message in smart contract .Sol.
+ 
  6.obile Responsive design.
 
 # INSTRUCTIONS
