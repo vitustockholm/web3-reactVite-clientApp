@@ -1,26 +1,26 @@
-# Application REACT - VITE - SOLIDITY
+# Application REACT - VITE - SOLIDITY = WEB3.0
 
 ### https://web3-react-vite-client-app.vercel.app/
 
- 1.Login with Metamask wallet.
+ 1.Login with Metamask wallet to application.
  
  2.Safety send Blockchain Transactions online.
  
- 3.Random giphy image generated throw API with every single transaction.
+ 3.Random giphy images generated throw API, with every single transaction.
  
  4.Tracking transactions history of wallet.
  
- 5.Reading smart contract .Sol messages and consoling to client.
+ 5.Reading smart contract messages and consoling to client.
  
  6.Mobile Responsive design.
 
 # INSTRUCTIONS
 
- - create TWO folders in main directory 
-    *1 CLIENT     (front app)
-    *2 SMART_CONTRACT  (backend logic)
+ - create 2 folders in main directory 
+    *1 CLIENT     (for front app)
+    *2 SMART_CONTRACT  (for backend logic)
 
-cd CLIENT         *(enter client root dir)
+cd CLIENT         *(enter Client root dir)
   ### npm init vite@latest        *(initilising Vite project)       
              *choose framework and variant REACT
 
