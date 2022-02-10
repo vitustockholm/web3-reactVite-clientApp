@@ -4,13 +4,13 @@
 
  1.Login with Metamask wallet to application.
  
- 2.Safety send Blockchain Transactions online.
+ 2. Make online Blockchain Transactions.
  
- 3.Random giphy images generated throw API, with every single transaction.
+ 3.Random giphy images generated throw API, with every single transaction adjusting by keywords.
  
- 4.Tracking transactions history of wallet.
+ 4.Tracking transactions history of logged wallets by website smart contract.
  
- 5.Reading smart contract messages and consoling to client.
+ 5.Reading smart contract messages and consoling to client .
  
  6.Mobile Responsive design.
 
